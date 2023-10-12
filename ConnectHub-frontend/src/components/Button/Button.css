@@ -1,0 +1,24 @@
+.submitButton{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    
+}
+
+.ps-button{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+    background-color: bisque;
+}
+
+.date-timebutton{
+    width: 80px;
+    height: 40px;
+    margin-left: 86%;
+    cursor: pointer;
+    font-size: 18px;
+    background-color: rgb(167, 253, 253);
+    border-radius: 15px;
+}
